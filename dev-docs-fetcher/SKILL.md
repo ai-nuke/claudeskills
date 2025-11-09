@@ -1,6 +1,7 @@
 ---
 name: dev-docs-fetcher
-description: Fetch and analyze developer documentation from any website using the fetch MCP server. Use when the user requests current documentation, API references, library guides, framework documentation, or technical specifications from the web.
+description: Fetch and analyze developer documentation from any website. Use when user requests API references, library guides, or technical documentation.
+version: 1.0.0
 allowed-tools:
   - fetch
 ---
